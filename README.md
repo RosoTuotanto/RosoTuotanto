@@ -19,4 +19,4 @@ In English:
 
 *Roso Games is a Finnish game development project where participants learn the basics of game development through hands-on work. No prior experience is needed. The project is organized by Kukunori ry, a Finnish non-profit focused on culture and wellbeing.*
 
-*__The project is currently only available in Finnish__, but we are working on expanding it globally and open sourcing the learning materials so that anyone can pick up game development, Lua programming, and the Solar2D engine..*
+🇬🇧 🇺🇸 *__The project is currently only available in Finnish__, but we are working on expanding it globally and open sourcing the learning materials so that anyone can pick up game development, Lua programming, and the Solar2D engine.*
